@@ -1,1 +1,1 @@
-# notepad
+#beni okuma amk
