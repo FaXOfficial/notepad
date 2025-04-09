@@ -1,1 +1,1 @@
-#beni okuma amk
+# beni okuma amk
